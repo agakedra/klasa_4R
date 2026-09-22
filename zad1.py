@@ -1,5 +1,6 @@
- # zad 1.1 Funkcja wynik zwraca coś... 
-print("Zadanie 1.1")   
+# Zadanie 1. Ciągi rekurencyjne 
+# zad 1.1 Funkcja wynik zwraca coś... 
+print("Zadanie 1.1")     
 def wynik(i):
     if i < 3:
         return 1
